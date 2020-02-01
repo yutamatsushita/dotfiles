@@ -12,3 +12,4 @@ eval "$(stack --bash-completion-script stack)"
 setopt auto_cd
 setopt auto_pushd
 setopt correct
+
